@@ -1,0 +1,31 @@
+.h1text {
+    font-size: 50px;
+    padding: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-class, .navs-section {
+    padding: 1em;
+}
+
+a {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navs-section {
+    border: 2px dashed rgb(101, 88, 88);
+    color: aliceblue;
+    margin: 2em;
+    padding: 1.5em;
+}
